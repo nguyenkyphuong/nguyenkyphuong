@@ -7,7 +7,7 @@ Aspiring AI/ Machine Learning Engineer.
 Passionate about tech and continuous learning through every line of code and experience. I believe every bug and challenge is a chance to grow — technically and personally. I thrive in positive, growth-oriented environments.
 
 * 🌍  I'm based in Ho Chi Minh City, Vietnam
-* ✉️  You can contact me at [23521243@gm.uit.edu.vn](mailto:23521243@gm.uit.edu.vn)
+* ✉️  You can contact me at [23521243@gm.uit.edu.vn](mailto:nguyenkyphuong2305vt@gmail.com)
 * 🧠  I'm learning Machine Learning
 
 ### Skills
